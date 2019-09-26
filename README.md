@@ -11,13 +11,15 @@ pojďme každý nalezeny hřích brát jako možnost, jak vylepšit náš svět.
 Vytvoř issue v tomto repozitáři. 
 Soustřeď se na věcný popis problému,
 navrhni, jak by dle tvého názoru mohl 
-být problém řešen lépe. Ohodnoť 
+být problém řešen lépe s využitím digitalizace. Ohodnoť 
 závažnost hříchu a pokus se odhadnout,
 jaký přínos by mohla mít jeho náprava.
 Informuj zodpovědnou organizacia sděl jim, 
 že jsi identifikoval prohřešek proti obecnému
 trendu digitalizace, at se podívají a případně
 se k hříchu vyjádří.
+
+Sdílej informací o hříchu označenou #digiczhrich
 
  
 
