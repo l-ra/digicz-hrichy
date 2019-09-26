@@ -14,6 +14,10 @@ navrhni, jak by dle tvého názoru mohl
 být problém řešen lépe. Ohodnoť 
 závažnost hříchu a pokus se odhadnout,
 jaký přínos by mohla mít jeho náprava.
+Informuj zodpovědnou organizacia sděl jim, 
+že jsi identifikoval prohřešek proti obecnému
+trendu digitalizace, at se podívají a případně
+se k hříchu vyjádří.
 
  
 
