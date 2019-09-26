@@ -8,6 +8,13 @@ věřím, že mnohdy si ani dotyčný hříšník nemusí uvědomit, že by se n
 pojďme každý nalezeny hřích brát jako možnost, jak vylepšit náš svět. 
 
 ## Jak hřích zaznamenat 
-Vytvoř issue v tomto repozitáři. Soustřeď se 
+Vytvoř issue v tomto repozitáři. 
+Soustřeď se na věcný popis problému,
+navrhni, jak by dle tvého názoru mohl 
+být problém řešen lépe. Ohodnoť 
+závažnost hříchu a pokus se odhadnout,
+jaký přínos by mohla mít jeho náprava.
+
+ 
 
 
