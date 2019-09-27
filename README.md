@@ -7,7 +7,7 @@ Věřím, že mnohdy si ani dotyčný hříšník nemusí uvědomit, že by něk
 Pojďme každý nalezeny hřích brát jako možnost, jak vylepšit náš svět. 
 
 ## Jak hřích zaznamenat 
-Vytvoř issue v tomto repozitáři. 
+[Vytvoř issue v tomto repozitáři.](https://github.com/l-ra/digicz-hrichy/issues/new?assignees=&labels=&template=digi-cz-h--ch.md&title=H%C5%99%C3%ADch%3A+) 
 Soustřeď se na věcný popis problému,
 navrhni, jak by dle tvého názoru mohl 
 být problém řešen lépe s využitím digitalizace. 
