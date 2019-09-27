@@ -14,6 +14,7 @@ být problém řešen lépe s využitím digitalizace.
 
 Sdílej informací o hříchu a knize hříhů označenou #digiczhrich
 
- 
+## Seznam hříchů
+[Vstupte do knihy hříchů digitalizace.](https://github.com/l-ra/digicz-hrichy/issues)
 
 
