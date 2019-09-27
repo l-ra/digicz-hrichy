@@ -8,9 +8,9 @@ assignees: ''
 ---
 **Identifikace organizace a služby**
 
-Název organizace:
-IČ: 
-URL:
+* Název organizace:
+* IČ: 
+* URL:
 
 
 **Popiš podstatu problému**
