@@ -1,11 +1,16 @@
 ---
 name: Digi CZ Hřích
 about: Pojďme o problémech otevřené diskutovat
-title: ''
+title: 'Hřích: '
 labels: ''
 assignees: ''
 
 ---
+**Identifikace organizace a služby**
+
+Název organizace:
+IČ: 
+URL:
 
 **Popiš podstatu problému**
 
@@ -20,8 +25,8 @@ Udej kroky, jakvyvolst nežádoucí situaci
 
 **Jak bys navrhoval problém řešit**
 
-Stručně popis, jak prostředky digitalizace popsaný problém řešit a co to přinese.
+Stručně popiš, jak prostředky digitalizace popsaný problém řešit a co to přinese.
 
 **Snímky obrazovky**
 
-Pokud to dává sv mysl, přilož snímek obrazovky...
+Pokud to dává smysl, přilož snímek obrazovky...
