@@ -12,9 +12,10 @@ Název organizace:
 IČ: 
 URL:
 
+
 **Popiš podstatu problému**
 
-Stručně popiš, co považuješ za prohřešek a proč
+Stručně popiš, co považuješ za prohřešek a proč a vyplň i název záznamu výše.
 
 **Jak reprodukovat**
 
