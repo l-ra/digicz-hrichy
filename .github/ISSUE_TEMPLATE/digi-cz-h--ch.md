@@ -8,9 +8,10 @@ assignees: ''
 ---
 **Identifikace organizace a služby**
 
-* Název organizace:
+* Název organizace: 
 * IČ: 
 * URL:
+* Twitter: 
 
 
 **Popiš podstatu problému**
@@ -19,7 +20,7 @@ Stručně popiš, co považuješ za prohřešek a proč a vyplň i název zázna
 
 **Jak reprodukovat**
 
-Udej kroky, jakvyvolst nežádoucí situaci
+Udej kroky, jakvyvolat nežádoucí situaci
 1. Zažádej si o '...'
 2. Datovkou odešli '....'
 3. Atd'....'
